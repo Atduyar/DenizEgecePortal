@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cs.evrenomi.com" id="c8d012aa-2526-446b-8a4a-b18d4a2b2841" port="22" nameFormat="DESCRIPTIVE" username="evrenomi-cs" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

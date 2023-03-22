@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0c066b04-7215-4e66-9c51-121cf18a9496" name="cs.evrenomi.com" url="cs.evrenomi.com">
+        <fileTransfer rootFolder="/home/evrenomi-cs/htdocs/cs.evrenomi.com" accessType="SFTP" host="cs.evrenomi.com" port="22" sshConfigId="c8d012aa-2526-446b-8a4a-b18d4a2b2841" sshConfig="evrenomi-cs@cs.evrenomi.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
